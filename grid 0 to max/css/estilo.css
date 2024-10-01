@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #ccc;
+}
+
+.conteiner{
+    display: inline-block;
+    display: flex;
+    padding: 10px;
+    height: 200px;
+    display: grid;
+    background-color: aquamarine
+    
+
+}
+
